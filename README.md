@@ -1,5 +1,11 @@
-# Trab1-Mocks-no-Jest
-# Criação de Mocks no Jest (Teste de Unidade)
+# CEFET/MG - Engenharia de Software 2023/1
+# Roteiro Prático - Criação de Mocks no Jest (Teste de Unidade)
+
+### Alunos: 
+- Filipe da Silva Rocha
+- Gabriela Guerra Malvar Pereira
+- Rafael Augusto da Fonseca Lima
+- William Silva de Almeida 
 
 Este repositório contém um exemplo simples da criação de um mocks usando o framework de testes Jest para realização de Testes de unidade em JavaScript.
 
